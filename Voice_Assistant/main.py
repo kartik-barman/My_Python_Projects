@@ -40,7 +40,7 @@ if __name__ == '__main__':
         while True:
             data1 = sptext().lower()
             if "your name" in data1:
-                name = "my name is kartik"
+                name = "my name is kartik barman"
                 speak(name)
             elif "age" in data1:
                 age = "My Age is 1 year old"
